@@ -18,7 +18,7 @@ A recreation of a very famous block dropping game.
 
 Rendered in a 3D environment using OpenGL.
 
-This should be considered a “Complete” demo (start screen, playable game, game over screen). There are loads that could be added or improved on but it’s probably enough for a Minimal Viable Product and demo purposes. And as always, there are other projects and ideas to work on.
+This should be considered a “complete” demo (start screen, playable game, game over screen). There are loads that could be added or improved on but it’s probably enough for a Minimal Viable Product and demo purposes. And as always, there are other projects and ideas to work on.
 
 <a name="features"></a>
 ## Features
@@ -27,7 +27,7 @@ This should be considered a “Complete” demo (start screen, playable game, game o
 - Free camera
 - Texture mapping
 - Blinn-Phong lighting
-- Shadow mapping
+- Real-time shadow mapping
 - Sky box
 - Batch rendering
 
@@ -102,3 +102,5 @@ Everything needed is contained in this repo.
 - [STB Image](https://github.com/nothings/stb)
 - [Dear ImGui](https://github.com/ocornut/imgui)
 - [FreeType](https://www.freetype.org/)
+
+Licences for each individual library (and font) used in this repo included.
